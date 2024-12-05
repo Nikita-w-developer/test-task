@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-task/static/css/main.fb1a7df0.css",
+    "main.js": "/test-task/static/js/main.a5019e63.js",
+    "static/media/favourite.svg": "/test-task/static/media/favourite.a496890f2ffcf16be6a62d607509e02e.svg",
+    "static/media/favourite_fill.svg": "/test-task/static/media/favourite_fill.36b0297aa48d897d14d2989b98395ee4.svg",
+    "index.html": "/test-task/index.html",
+    "static/media/stylus_24dp_UNDEFINED_FILL0_wght400_GRAD0_opsz24.svg": "/test-task/static/media/stylus_24dp_UNDEFINED_FILL0_wght400_GRAD0_opsz24.f616abc8ea207944da488734301fd31b.svg",
+    "static/media/close_24dp_UNDEFINED_FILL0_wght400_GRAD0_opsz24.svg": "/test-task/static/media/close_24dp_UNDEFINED_FILL0_wght400_GRAD0_opsz24.4f790d515f827f668769273d72d0de8c.svg",
+    "main.fb1a7df0.css.map": "/test-task/static/css/main.fb1a7df0.css.map",
+    "main.a5019e63.js.map": "/test-task/static/js/main.a5019e63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1a7df0.css",
+    "static/js/main.a5019e63.js"
+  ]
+}
